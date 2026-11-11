@@ -1,0 +1,5 @@
+scope,window_start,window_end,weeks,brands,categories,new_ads,lifespan_brands,lifespan_ads,half_off_within_weeks,pct_running_at_4_weeks,last_week_charted,pct_running_at_last_week,live_ads_by_age_sample,typical_new_ads_per_week,top_quarter_new_ads_per_week,pct_brand_weeks_no_launch,pct_off_low,pct_off_low_week,pct_off_high,pct_off_high_week,computed_on
+all,2026-06-08,2026-10-25,20,730,36,538068,510,273302,3,28.2,21,2.1,65681,16,50,17.3,8.9,2026-09-07,15.1,2026-08-31,2026-11-10
+ecommerce,2026-06-08,2026-10-25,20,385,17,316039,256,137241,3,29,21,2.5,34130,22,56,13.4,12,2026-09-07,22.5,2026-08-31,2026-11-10
+software,2026-06-08,2026-10-25,20,141,8,104586,97,12749,3,23.2,5,14.8,13559,18,48,16.2,0.3,2026-07-20,5.3,2026-06-08,2026-11-10
+services,2026-06-08,2026-10-25,20,204,11,117443,157,76095,3,30,21,3.1,17992,7,35,25.2,4.5,2026-07-20,9,2026-10-12,2026-11-10

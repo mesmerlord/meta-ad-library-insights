@@ -1,0 +1,1121 @@
+scope,group,attribute,week,mean_brand_share_pct,pct_brands_using
+all,format,Video,2026-06-08,31.8,81.4
+all,format,Video,2026-06-15,32.8,82.8
+all,format,Video,2026-06-22,32.8,84.8
+all,format,Video,2026-06-29,33.7,83.1
+all,format,Video,2026-07-06,31.2,84.1
+all,format,Video,2026-07-13,35.3,85
+all,format,Video,2026-07-20,33.9,81.6
+all,format,Video,2026-07-27,34.5,83.9
+all,format,Video,2026-08-03,33.8,83.7
+all,format,Video,2026-08-10,34.3,84.7
+all,format,Video,2026-08-17,35.9,84
+all,format,Video,2026-08-24,34.4,85.2
+all,format,Video,2026-08-31,33.3,85.6
+all,format,Video,2026-09-07,34.7,81.5
+all,format,Video,2026-09-14,35.3,84
+all,format,Video,2026-09-21,32.7,87
+all,format,Video,2026-09-28,35,85.4
+all,format,Video,2026-10-05,34.6,85.7
+all,format,Video,2026-10-12,33.8,87.4
+all,format,Video,2026-10-19,36,85.8
+all,format,Single image,2026-06-08,24,76.1
+all,format,Single image,2026-06-15,24,78.5
+all,format,Single image,2026-06-22,26.6,82.4
+all,format,Single image,2026-06-29,28.2,81.9
+all,format,Single image,2026-07-06,27.6,81.4
+all,format,Single image,2026-07-13,28.6,83.5
+all,format,Single image,2026-07-20,27.4,81.1
+all,format,Single image,2026-07-27,27.3,80.1
+all,format,Single image,2026-08-03,25.9,80.9
+all,format,Single image,2026-08-10,26.8,81.4
+all,format,Single image,2026-08-17,28,83
+all,format,Single image,2026-08-24,30,81.2
+all,format,Single image,2026-08-31,30.8,85.4
+all,format,Single image,2026-09-07,30.6,84.2
+all,format,Single image,2026-09-14,28.1,81.1
+all,format,Single image,2026-09-21,29.2,82.7
+all,format,Single image,2026-09-28,31.5,83.9
+all,format,Single image,2026-10-05,28.6,82.7
+all,format,Single image,2026-10-12,27.1,80.6
+all,format,Single image,2026-10-19,26.3,81.8
+all,format,Carousel,2026-06-08,4.8,31.4
+all,format,Carousel,2026-06-15,5.8,34.3
+all,format,Carousel,2026-06-22,4.4,30
+all,format,Carousel,2026-06-29,4.7,32.5
+all,format,Carousel,2026-07-06,4.9,30.5
+all,format,Carousel,2026-07-13,4.7,33.9
+all,format,Carousel,2026-07-20,5.3,34.2
+all,format,Carousel,2026-07-27,5.1,35.1
+all,format,Carousel,2026-08-03,5,31.9
+all,format,Carousel,2026-08-10,4.7,32.4
+all,format,Carousel,2026-08-17,4.7,33.7
+all,format,Carousel,2026-08-24,4.6,32.9
+all,format,Carousel,2026-08-31,4.7,34.5
+all,format,Carousel,2026-09-07,4.9,34.6
+all,format,Carousel,2026-09-14,5.1,33.3
+all,format,Carousel,2026-09-21,5.9,35.8
+all,format,Carousel,2026-09-28,5.6,36.6
+all,format,Carousel,2026-10-05,5.6,35.5
+all,format,Carousel,2026-10-12,4.9,35
+all,format,Carousel,2026-10-19,5,33.9
+all,format,Dynamic creative,2026-06-08,39.5,66
+all,format,Dynamic creative,2026-06-15,37.3,68.4
+all,format,Dynamic creative,2026-06-22,36.2,68.3
+all,format,Dynamic creative,2026-06-29,33.3,65.9
+all,format,Dynamic creative,2026-07-06,36.3,64.4
+all,format,Dynamic creative,2026-07-13,31.3,64.4
+all,format,Dynamic creative,2026-07-20,33.4,64.5
+all,format,Dynamic creative,2026-07-27,33.1,62.9
+all,format,Dynamic creative,2026-08-03,35.2,67.9
+all,format,Dynamic creative,2026-08-10,34.2,67.4
+all,format,Dynamic creative,2026-08-17,31.4,66.8
+all,format,Dynamic creative,2026-08-24,31.1,63.4
+all,format,Dynamic creative,2026-08-31,31.1,65.9
+all,format,Dynamic creative,2026-09-07,29.7,61.3
+all,format,Dynamic creative,2026-09-14,31.5,64.3
+all,format,Dynamic creative,2026-09-21,32.1,65.6
+all,format,Dynamic creative,2026-09-28,27.9,65.9
+all,format,Dynamic creative,2026-10-05,31.3,67.2
+all,format,Dynamic creative,2026-10-12,34.1,68
+all,format,Dynamic creative,2026-10-19,32.7,66.7
+all,placement,WhatsApp,2026-06-08,2.8,9.4
+all,placement,WhatsApp,2026-06-15,2,8.4
+all,placement,WhatsApp,2026-06-22,2.6,11.7
+all,placement,WhatsApp,2026-06-29,2.1,9.9
+all,placement,WhatsApp,2026-07-06,1.5,9.1
+all,placement,WhatsApp,2026-07-13,2.4,10
+all,placement,WhatsApp,2026-07-20,5.7,14.9
+all,placement,WhatsApp,2026-07-27,8.2,18.5
+all,placement,WhatsApp,2026-08-03,8.6,21.6
+all,placement,WhatsApp,2026-08-10,9,21.4
+all,placement,WhatsApp,2026-08-17,8.8,21.5
+all,placement,WhatsApp,2026-08-24,10.4,21.7
+all,placement,WhatsApp,2026-08-31,15,31.1
+all,placement,WhatsApp,2026-09-07,18.8,34.5
+all,placement,WhatsApp,2026-09-14,21.4,36
+all,placement,WhatsApp,2026-09-21,22.8,38.5
+all,placement,WhatsApp,2026-09-28,23.7,41
+all,placement,WhatsApp,2026-10-05,24,43.9
+all,placement,WhatsApp,2026-10-12,27.3,44.1
+all,placement,WhatsApp,2026-10-19,29.1,47.2
+all,placement,Threads,2026-06-08,75.9,84.8
+all,placement,Threads,2026-06-15,74.5,85.5
+all,placement,Threads,2026-06-22,74.6,85.6
+all,placement,Threads,2026-06-29,72.5,86.9
+all,placement,Threads,2026-07-06,73.6,86.5
+all,placement,Threads,2026-07-13,73.3,85.6
+all,placement,Threads,2026-07-20,75.1,84.9
+all,placement,Threads,2026-07-27,74.8,86.2
+all,placement,Threads,2026-08-03,74.7,86.2
+all,placement,Threads,2026-08-10,75.2,86.2
+all,placement,Threads,2026-08-17,74.6,87.2
+all,placement,Threads,2026-08-24,74.1,86.4
+all,placement,Threads,2026-08-31,75.6,87.5
+all,placement,Threads,2026-09-07,75.9,87.4
+all,placement,Threads,2026-09-14,75.1,85.7
+all,placement,Threads,2026-09-21,74.9,86.1
+all,placement,Threads,2026-09-28,73.8,86.4
+all,placement,Threads,2026-10-05,75.1,87.7
+all,placement,Threads,2026-10-12,76.3,88.8
+all,placement,Threads,2026-10-19,75.5,88.4
+all,placement,Messenger,2026-06-08,78.2,87.8
+all,placement,Messenger,2026-06-15,76.7,87.2
+all,placement,Messenger,2026-06-22,76.9,87.9
+all,placement,Messenger,2026-06-29,75.4,88.5
+all,placement,Messenger,2026-07-06,76.2,88.1
+all,placement,Messenger,2026-07-13,75.8,87.2
+all,placement,Messenger,2026-07-20,78,86.5
+all,placement,Messenger,2026-07-27,76,88.6
+all,placement,Messenger,2026-08-03,74.2,87.2
+all,placement,Messenger,2026-08-10,74.9,87.2
+all,placement,Messenger,2026-08-17,75.5,88.8
+all,placement,Messenger,2026-08-24,71,87.6
+all,placement,Messenger,2026-08-31,73.8,88
+all,placement,Messenger,2026-09-07,55.1,82.4
+all,placement,Messenger,2026-09-14,37.6,73.2
+all,placement,Messenger,2026-09-21,30,68.3
+all,placement,Messenger,2026-09-28,25.8,66.9
+all,placement,Messenger,2026-10-05,21.8,59.8
+all,placement,Messenger,2026-10-12,17.7,56.7
+all,placement,Messenger,2026-10-19,17,53.6
+all,placement,Audience Network,2026-06-08,52.8,64.5
+all,placement,Audience Network,2026-06-15,52.1,63.5
+all,placement,Audience Network,2026-06-22,52.4,65.4
+all,placement,Audience Network,2026-06-29,50.3,65.6
+all,placement,Audience Network,2026-07-06,51.1,63.6
+all,placement,Audience Network,2026-07-13,49.5,62.5
+all,placement,Audience Network,2026-07-20,50.8,62.6
+all,placement,Audience Network,2026-07-27,50.4,63.1
+all,placement,Audience Network,2026-08-03,46.8,61.4
+all,placement,Audience Network,2026-08-10,49.2,61.8
+all,placement,Audience Network,2026-08-17,47.6,61.7
+all,placement,Audience Network,2026-08-24,48.4,61.8
+all,placement,Audience Network,2026-08-31,49.7,61.9
+all,placement,Audience Network,2026-09-07,49.2,60.6
+all,placement,Audience Network,2026-09-14,47.6,61.3
+all,placement,Audience Network,2026-09-21,48.1,59.6
+all,placement,Audience Network,2026-09-28,46.9,61.3
+all,placement,Audience Network,2026-10-05,47.2,61.3
+all,placement,Audience Network,2026-10-12,47.2,61.1
+all,placement,Audience Network,2026-10-19,45.2,60.1
+all,button,Shop now,2026-06-08,48.7,52.6
+all,button,Shop now,2026-06-15,46,53.9
+all,button,Shop now,2026-06-22,45.8,52.7
+all,button,Shop now,2026-06-29,45.6,52.2
+all,button,Shop now,2026-07-06,46,51.7
+all,button,Shop now,2026-07-13,45.5,50.8
+all,button,Shop now,2026-07-20,47.7,52.5
+all,button,Shop now,2026-07-27,47.7,53
+all,button,Shop now,2026-08-03,48.3,52.7
+all,button,Shop now,2026-08-10,47.5,52.2
+all,button,Shop now,2026-08-17,47.2,52.2
+all,button,Shop now,2026-08-24,46.8,53.9
+all,button,Shop now,2026-08-31,46.3,53
+all,button,Shop now,2026-09-07,45.9,51.6
+all,button,Shop now,2026-09-14,46.3,51.5
+all,button,Shop now,2026-09-21,47.4,52.4
+all,button,Shop now,2026-09-28,47.1,52.8
+all,button,Shop now,2026-10-05,46.2,53.9
+all,button,Shop now,2026-10-12,43.9,53.6
+all,button,Shop now,2026-10-19,48.1,55
+all,button,Learn more,2026-06-08,19.3,40.3
+all,button,Learn more,2026-06-15,20.3,43.9
+all,button,Learn more,2026-06-22,20.2,42.7
+all,button,Learn more,2026-06-29,19.9,43.4
+all,button,Learn more,2026-07-06,19.7,40.2
+all,button,Learn more,2026-07-13,20,43.5
+all,button,Learn more,2026-07-20,19.2,42
+all,button,Learn more,2026-07-27,19.2,41.7
+all,button,Learn more,2026-08-03,18.9,41.8
+all,button,Learn more,2026-08-10,19.1,39.2
+all,button,Learn more,2026-08-17,19.6,38.7
+all,button,Learn more,2026-08-24,18.5,40
+all,button,Learn more,2026-08-31,19.1,39.7
+all,button,Learn more,2026-09-07,18.3,39.5
+all,button,Learn more,2026-09-14,18.9,39.7
+all,button,Learn more,2026-09-21,18.9,39.2
+all,button,Learn more,2026-09-28,19.5,41.7
+all,button,Learn more,2026-10-05,18.7,43.1
+all,button,Learn more,2026-10-12,20.4,41.3
+all,button,Learn more,2026-10-19,17.4,40.1
+all,button,Sign up,2026-06-08,4.6,10.9
+all,button,Sign up,2026-06-15,4.9,9.9
+all,button,Sign up,2026-06-22,4.1,11.6
+all,button,Sign up,2026-06-29,4.7,10.7
+all,button,Sign up,2026-07-06,3.9,11.4
+all,button,Sign up,2026-07-13,3.9,11.1
+all,button,Sign up,2026-07-20,4.4,10.3
+all,button,Sign up,2026-07-27,5.1,11.4
+all,button,Sign up,2026-08-03,3.7,10
+all,button,Sign up,2026-08-10,4.3,11.1
+all,button,Sign up,2026-08-17,3.3,11
+all,button,Sign up,2026-08-24,4.8,10.3
+all,button,Sign up,2026-08-31,4.2,10.9
+all,button,Sign up,2026-09-07,5.3,11.1
+all,button,Sign up,2026-09-14,4.1,9.4
+all,button,Sign up,2026-09-21,4.1,10.1
+all,button,Sign up,2026-09-28,3.7,10.9
+all,button,Sign up,2026-10-05,4.1,10.3
+all,button,Sign up,2026-10-12,4.2,11.6
+all,button,Sign up,2026-10-19,4.4,12
+all,button,Get quote,2026-06-08,4.5,6.3
+all,button,Get quote,2026-06-15,4.8,6.3
+all,button,Get quote,2026-06-22,4.6,6.8
+all,button,Get quote,2026-06-29,5,8
+all,button,Get quote,2026-07-06,4.3,6.8
+all,button,Get quote,2026-07-13,4.7,6.6
+all,button,Get quote,2026-07-20,4.2,6.9
+all,button,Get quote,2026-07-27,4.1,7.1
+all,button,Get quote,2026-08-03,4.7,7.3
+all,button,Get quote,2026-08-10,5.1,7.1
+all,button,Get quote,2026-08-17,4.5,7.3
+all,button,Get quote,2026-08-24,4.1,7.1
+all,button,Get quote,2026-08-31,4.5,7.1
+all,button,Get quote,2026-09-07,4.4,6.5
+all,button,Get quote,2026-09-14,4.8,7.6
+all,button,Get quote,2026-09-21,3.9,7.2
+all,button,Get quote,2026-09-28,4.2,7.6
+all,button,Get quote,2026-10-05,4,6.6
+all,button,Get quote,2026-10-12,4.2,6.8
+all,button,Get quote,2026-10-19,4.1,7.1
+all,button,Install app,2026-06-08,4.5,7.8
+all,button,Install app,2026-06-15,4.8,7.7
+all,button,Install app,2026-06-22,4.6,7.5
+all,button,Install app,2026-06-29,5,8
+all,button,Install app,2026-07-06,4.5,7.2
+all,button,Install app,2026-07-13,4.4,7.4
+all,button,Install app,2026-07-20,5,8
+all,button,Install app,2026-07-27,4.9,8.1
+all,button,Install app,2026-08-03,3.9,7.5
+all,button,Install app,2026-08-10,4.2,7.8
+all,button,Install app,2026-08-17,4.4,7.3
+all,button,Install app,2026-08-24,5.3,8.4
+all,button,Install app,2026-08-31,4.9,7.7
+all,button,Install app,2026-09-07,5,7.8
+all,button,Install app,2026-09-14,4.6,7.7
+all,button,Install app,2026-09-21,5.1,6.7
+all,button,Install app,2026-09-28,5.1,8.2
+all,button,Install app,2026-10-05,4.9,8.8
+all,button,Install app,2026-10-12,5.6,8.4
+all,button,Install app,2026-10-19,5,8.2
+all,button,Get offer,2026-06-08,2.2,4.6
+all,button,Get offer,2026-06-15,1.9,5.3
+all,button,Get offer,2026-06-22,2.6,5.4
+all,button,Get offer,2026-06-29,2.1,5.8
+all,button,Get offer,2026-07-06,2.5,5.6
+all,button,Get offer,2026-07-13,1.9,5.1
+all,button,Get offer,2026-07-20,1.8,4.4
+all,button,Get offer,2026-07-27,2,4
+all,button,Get offer,2026-08-03,2.6,4.7
+all,button,Get offer,2026-08-10,1.8,4.7
+all,button,Get offer,2026-08-17,2.2,5.7
+all,button,Get offer,2026-08-24,2.2,5.7
+all,button,Get offer,2026-08-31,2.2,5.8
+all,button,Get offer,2026-09-07,2.4,6
+all,button,Get offer,2026-09-14,2.1,6.1
+all,button,Get offer,2026-09-21,2.3,5.3
+all,button,Get offer,2026-09-28,1.9,5
+all,button,Get offer,2026-10-05,1.7,5.9
+all,button,Get offer,2026-10-12,2.8,6.8
+all,button,Get offer,2026-10-19,2.2,4.5
+ecommerce,format,Video,2026-06-08,32.4,84.2
+ecommerce,format,Video,2026-06-15,32.4,84
+ecommerce,format,Video,2026-06-22,32.5,87
+ecommerce,format,Video,2026-06-29,33.5,85.9
+ecommerce,format,Video,2026-07-06,32,85.4
+ecommerce,format,Video,2026-07-13,35,87.8
+ecommerce,format,Video,2026-07-20,33.5,82.5
+ecommerce,format,Video,2026-07-27,34.4,87.7
+ecommerce,format,Video,2026-08-03,34.2,85.8
+ecommerce,format,Video,2026-08-10,33,85.2
+ecommerce,format,Video,2026-08-17,35.1,85.5
+ecommerce,format,Video,2026-08-24,33.8,86.4
+ecommerce,format,Video,2026-08-31,32.6,88.4
+ecommerce,format,Video,2026-09-07,34.6,86
+ecommerce,format,Video,2026-09-14,34,86.6
+ecommerce,format,Video,2026-09-21,33.2,87.4
+ecommerce,format,Video,2026-09-28,34.9,87.6
+ecommerce,format,Video,2026-10-05,35,88
+ecommerce,format,Video,2026-10-12,35.6,87.7
+ecommerce,format,Video,2026-10-19,36.3,86.2
+ecommerce,format,Single image,2026-06-08,21.1,78.5
+ecommerce,format,Single image,2026-06-15,21.5,79.7
+ecommerce,format,Single image,2026-06-22,24.4,84.9
+ecommerce,format,Single image,2026-06-29,26.4,83.6
+ecommerce,format,Single image,2026-07-06,24.7,84.3
+ecommerce,format,Single image,2026-07-13,26.4,86.1
+ecommerce,format,Single image,2026-07-20,24.9,83.7
+ecommerce,format,Single image,2026-07-27,25,83.5
+ecommerce,format,Single image,2026-08-03,23.6,83.1
+ecommerce,format,Single image,2026-08-10,25.9,84.3
+ecommerce,format,Single image,2026-08-17,26.1,85.8
+ecommerce,format,Single image,2026-08-24,28.3,84.9
+ecommerce,format,Single image,2026-08-31,30.9,87.2
+ecommerce,format,Single image,2026-09-07,28,86
+ecommerce,format,Single image,2026-09-14,26.1,83.5
+ecommerce,format,Single image,2026-09-21,27.9,86.2
+ecommerce,format,Single image,2026-09-28,31.2,86.7
+ecommerce,format,Single image,2026-10-05,26.9,84.9
+ecommerce,format,Single image,2026-10-12,26.2,83.2
+ecommerce,format,Single image,2026-10-19,25.4,82.8
+ecommerce,format,Carousel,2026-06-08,6.6,45.2
+ecommerce,format,Carousel,2026-06-15,8.3,45.5
+ecommerce,format,Carousel,2026-06-22,6.6,42.9
+ecommerce,format,Carousel,2026-06-29,6.6,45.4
+ecommerce,format,Carousel,2026-07-06,7.4,42.3
+ecommerce,format,Carousel,2026-07-13,6.5,48.1
+ecommerce,format,Carousel,2026-07-20,8,47
+ecommerce,format,Carousel,2026-07-27,6.8,48
+ecommerce,format,Carousel,2026-08-03,6.9,43.8
+ecommerce,format,Carousel,2026-08-10,6.7,44.8
+ecommerce,format,Carousel,2026-08-17,6.5,45.9
+ecommerce,format,Carousel,2026-08-24,5.9,44.3
+ecommerce,format,Carousel,2026-08-31,6.5,48.7
+ecommerce,format,Carousel,2026-09-07,7,50.1
+ecommerce,format,Carousel,2026-09-14,7.2,46.6
+ecommerce,format,Carousel,2026-09-21,7.9,48.9
+ecommerce,format,Carousel,2026-09-28,7.3,50.6
+ecommerce,format,Carousel,2026-10-05,7.9,48.2
+ecommerce,format,Carousel,2026-10-12,7,47.5
+ecommerce,format,Carousel,2026-10-19,7.1,43.9
+ecommerce,format,Dynamic creative,2026-06-08,39.9,70.9
+ecommerce,format,Dynamic creative,2026-06-15,37.8,72.6
+ecommerce,format,Dynamic creative,2026-06-22,36.5,71.9
+ecommerce,format,Dynamic creative,2026-06-29,33.5,69.8
+ecommerce,format,Dynamic creative,2026-07-06,35.8,66.8
+ecommerce,format,Dynamic creative,2026-07-13,32.1,71
+ecommerce,format,Dynamic creative,2026-07-20,33.6,67.8
+ecommerce,format,Dynamic creative,2026-07-27,33.8,68.8
+ecommerce,format,Dynamic creative,2026-08-03,35.2,71.3
+ecommerce,format,Dynamic creative,2026-08-10,34.4,72.1
+ecommerce,format,Dynamic creative,2026-08-17,32.3,71.3
+ecommerce,format,Dynamic creative,2026-08-24,32,70.2
+ecommerce,format,Dynamic creative,2026-08-31,30,69.9
+ecommerce,format,Dynamic creative,2026-09-07,30.5,65.7
+ecommerce,format,Dynamic creative,2026-09-14,32.7,68.6
+ecommerce,format,Dynamic creative,2026-09-21,30.9,70.2
+ecommerce,format,Dynamic creative,2026-09-28,26.6,69.7
+ecommerce,format,Dynamic creative,2026-10-05,30.2,69.6
+ecommerce,format,Dynamic creative,2026-10-12,31.3,66.8
+ecommerce,format,Dynamic creative,2026-10-19,31.3,67.2
+ecommerce,placement,WhatsApp,2026-06-08,3.5,12.1
+ecommerce,placement,WhatsApp,2026-06-15,2.4,10.8
+ecommerce,placement,WhatsApp,2026-06-22,3.2,14.8
+ecommerce,placement,WhatsApp,2026-06-29,2.7,12.4
+ecommerce,placement,WhatsApp,2026-07-06,1.9,11.1
+ecommerce,placement,WhatsApp,2026-07-13,3.4,12.8
+ecommerce,placement,WhatsApp,2026-07-20,7,20.7
+ecommerce,placement,WhatsApp,2026-07-27,10.2,24.3
+ecommerce,placement,WhatsApp,2026-08-03,11.2,27.8
+ecommerce,placement,WhatsApp,2026-08-10,13.6,28.8
+ecommerce,placement,WhatsApp,2026-08-17,12.2,29.3
+ecommerce,placement,WhatsApp,2026-08-24,14.4,31
+ecommerce,placement,WhatsApp,2026-08-31,19.6,41.7
+ecommerce,placement,WhatsApp,2026-09-07,26,45.7
+ecommerce,placement,WhatsApp,2026-09-14,29.1,48.2
+ecommerce,placement,WhatsApp,2026-09-21,32.1,53.5
+ecommerce,placement,WhatsApp,2026-09-28,31.3,55.2
+ecommerce,placement,WhatsApp,2026-10-05,32.7,58.4
+ecommerce,placement,WhatsApp,2026-10-12,37,59.5
+ecommerce,placement,WhatsApp,2026-10-19,37.6,60.4
+ecommerce,placement,Threads,2026-06-08,82.1,91.8
+ecommerce,placement,Threads,2026-06-15,80.8,91.1
+ecommerce,placement,Threads,2026-06-22,82,91.7
+ecommerce,placement,Threads,2026-06-29,79.2,91.7
+ecommerce,placement,Threads,2026-07-06,81.2,90.7
+ecommerce,placement,Threads,2026-07-13,80.8,90.7
+ecommerce,placement,Threads,2026-07-20,78.9,89.1
+ecommerce,placement,Threads,2026-07-27,79.8,90.1
+ecommerce,placement,Threads,2026-08-03,81.9,90.6
+ecommerce,placement,Threads,2026-08-10,81.5,89.9
+ecommerce,placement,Threads,2026-08-17,79.8,91.2
+ecommerce,placement,Threads,2026-08-24,81.8,90.7
+ecommerce,placement,Threads,2026-08-31,80.7,91.6
+ecommerce,placement,Threads,2026-09-07,81.6,91
+ecommerce,placement,Threads,2026-09-14,81.3,90.9
+ecommerce,placement,Threads,2026-09-21,81.4,92.6
+ecommerce,placement,Threads,2026-09-28,79.3,91.5
+ecommerce,placement,Threads,2026-10-05,81.2,91.9
+ecommerce,placement,Threads,2026-10-12,81.6,92.7
+ecommerce,placement,Threads,2026-10-19,81.5,93.6
+ecommerce,placement,Messenger,2026-06-08,84.5,93.6
+ecommerce,placement,Messenger,2026-06-15,83.5,93.8
+ecommerce,placement,Messenger,2026-06-22,83.8,93.5
+ecommerce,placement,Messenger,2026-06-29,82,92.8
+ecommerce,placement,Messenger,2026-07-06,83.1,92.1
+ecommerce,placement,Messenger,2026-07-13,82.6,91.6
+ecommerce,placement,Messenger,2026-07-20,82.7,90.5
+ecommerce,placement,Messenger,2026-07-27,81.3,91.9
+ecommerce,placement,Messenger,2026-08-03,80.8,91.5
+ecommerce,placement,Messenger,2026-08-10,80.9,90.8
+ecommerce,placement,Messenger,2026-08-17,80.8,92.1
+ecommerce,placement,Messenger,2026-08-24,77.8,91.6
+ecommerce,placement,Messenger,2026-08-31,78.8,92.5
+ecommerce,placement,Messenger,2026-09-07,59.5,86.3
+ecommerce,placement,Messenger,2026-09-14,41.1,77.7
+ecommerce,placement,Messenger,2026-09-21,32.5,75.4
+ecommerce,placement,Messenger,2026-09-28,27.6,72.1
+ecommerce,placement,Messenger,2026-10-05,26.1,66.3
+ecommerce,placement,Messenger,2026-10-12,20.4,63.9
+ecommerce,placement,Messenger,2026-10-19,20.9,58.9
+ecommerce,placement,Audience Network,2026-06-08,57.5,69.1
+ecommerce,placement,Audience Network,2026-06-15,55.3,67.4
+ecommerce,placement,Audience Network,2026-06-22,56.4,68.9
+ecommerce,placement,Audience Network,2026-06-29,54.3,68.1
+ecommerce,placement,Audience Network,2026-07-06,54.9,66.8
+ecommerce,placement,Audience Network,2026-07-13,54.4,64.9
+ecommerce,placement,Audience Network,2026-07-20,53.9,65.7
+ecommerce,placement,Audience Network,2026-07-27,53.7,64.6
+ecommerce,placement,Audience Network,2026-08-03,51.1,65
+ecommerce,placement,Audience Network,2026-08-10,53.5,65.6
+ecommerce,placement,Audience Network,2026-08-17,52.1,65
+ecommerce,placement,Audience Network,2026-08-24,53.1,64.8
+ecommerce,placement,Audience Network,2026-08-31,54.3,64.9
+ecommerce,placement,Audience Network,2026-09-07,53.6,63.3
+ecommerce,placement,Audience Network,2026-09-14,51.3,64.3
+ecommerce,placement,Audience Network,2026-09-21,51.4,64
+ecommerce,placement,Audience Network,2026-09-28,50,63
+ecommerce,placement,Audience Network,2026-10-05,49.8,63.6
+ecommerce,placement,Audience Network,2026-10-12,50.2,64.2
+ecommerce,placement,Audience Network,2026-10-19,48.9,62.6
+ecommerce,button,Shop now,2026-06-08,79.8,90.3
+ecommerce,button,Shop now,2026-06-15,78.5,89.8
+ecommerce,button,Shop now,2026-06-22,79.6,91.1
+ecommerce,button,Shop now,2026-06-29,78.3,88.5
+ecommerce,button,Shop now,2026-07-06,80.2,88.9
+ecommerce,button,Shop now,2026-07-13,76.8,88.4
+ecommerce,button,Shop now,2026-07-20,79.1,89.3
+ecommerce,button,Shop now,2026-07-27,79.5,90.7
+ecommerce,button,Shop now,2026-08-03,80.5,89.4
+ecommerce,button,Shop now,2026-08-10,79.3,87.8
+ecommerce,button,Shop now,2026-08-17,79.3,89.4
+ecommerce,button,Shop now,2026-08-24,78.1,90.4
+ecommerce,button,Shop now,2026-08-31,77.6,89.6
+ecommerce,button,Shop now,2026-09-07,77.4,89.3
+ecommerce,button,Shop now,2026-09-14,78.4,87.5
+ecommerce,button,Shop now,2026-09-21,79.1,89.5
+ecommerce,button,Shop now,2026-09-28,77.9,90.3
+ecommerce,button,Shop now,2026-10-05,79.5,90.4
+ecommerce,button,Shop now,2026-10-12,75.7,91.1
+ecommerce,button,Shop now,2026-10-19,81.5,91.4
+ecommerce,button,Learn more,2026-06-08,8.8,26.7
+ecommerce,button,Learn more,2026-06-15,10.6,29.8
+ecommerce,button,Learn more,2026-06-22,8.9,27.8
+ecommerce,button,Learn more,2026-06-29,11.2,31.6
+ecommerce,button,Learn more,2026-07-06,9.1,28
+ecommerce,button,Learn more,2026-07-13,10.9,33.3
+ecommerce,button,Learn more,2026-07-20,9,29.9
+ecommerce,button,Learn more,2026-07-27,8.5,29.4
+ecommerce,button,Learn more,2026-08-03,8.8,28.4
+ecommerce,button,Learn more,2026-08-10,9.3,28.2
+ecommerce,button,Learn more,2026-08-17,8.9,25.7
+ecommerce,button,Learn more,2026-08-24,9.3,29.5
+ecommerce,button,Learn more,2026-08-31,9.5,27.5
+ecommerce,button,Learn more,2026-09-07,9.5,27.2
+ecommerce,button,Learn more,2026-09-14,9.2,28
+ecommerce,button,Learn more,2026-09-21,8.4,29.5
+ecommerce,button,Learn more,2026-09-28,9.6,30.6
+ecommerce,button,Learn more,2026-10-05,8.5,31.6
+ecommerce,button,Learn more,2026-10-12,10.3,27.8
+ecommerce,button,Learn more,2026-10-19,8,27.9
+ecommerce,button,Sign up,2026-06-08,0.6,3.9
+ecommerce,button,Sign up,2026-06-15,0.5,3.1
+ecommerce,button,Sign up,2026-06-22,0.7,3.6
+ecommerce,button,Sign up,2026-06-29,0.4,2.6
+ecommerce,button,Sign up,2026-07-06,0.8,4.7
+ecommerce,button,Sign up,2026-07-13,0.6,2.6
+ecommerce,button,Sign up,2026-07-20,0.6,3
+ecommerce,button,Sign up,2026-07-27,1.2,3.9
+ecommerce,button,Sign up,2026-08-03,0.3,2.4
+ecommerce,button,Sign up,2026-08-10,0.3,3
+ecommerce,button,Sign up,2026-08-17,0.4,3.6
+ecommerce,button,Sign up,2026-08-24,1,3.3
+ecommerce,button,Sign up,2026-08-31,0.3,2.9
+ecommerce,button,Sign up,2026-09-07,0.5,3.3
+ecommerce,button,Sign up,2026-09-14,0.5,2.1
+ecommerce,button,Sign up,2026-09-21,0.7,3.7
+ecommerce,button,Sign up,2026-09-28,1,5.2
+ecommerce,button,Sign up,2026-10-05,0.6,3.3
+ecommerce,button,Sign up,2026-10-12,1.5,5.7
+ecommerce,button,Sign up,2026-10-19,0.9,5.8
+ecommerce,button,Get quote,2026-06-08,0.4,0.6
+ecommerce,button,Get quote,2026-06-15,0.6,1.5
+ecommerce,button,Get quote,2026-06-22,1,1.5
+ecommerce,button,Get quote,2026-06-29,1.2,2.3
+ecommerce,button,Get quote,2026-07-06,0.7,1.5
+ecommerce,button,Get quote,2026-07-13,1.1,1.4
+ecommerce,button,Get quote,2026-07-20,1.7,2.1
+ecommerce,button,Get quote,2026-07-27,0.6,1.5
+ecommerce,button,Get quote,2026-08-03,0.8,1.5
+ecommerce,button,Get quote,2026-08-10,0.9,1.8
+ecommerce,button,Get quote,2026-08-17,0.5,1.8
+ecommerce,button,Get quote,2026-08-24,1.1,1.5
+ecommerce,button,Get quote,2026-08-31,1.2,1.4
+ecommerce,button,Get quote,2026-09-07,1.1,1.5
+ecommerce,button,Get quote,2026-09-14,0.8,2.1
+ecommerce,button,Get quote,2026-09-21,0.7,1.2
+ecommerce,button,Get quote,2026-09-28,0.7,2.1
+ecommerce,button,Get quote,2026-10-05,0.6,1.2
+ecommerce,button,Get quote,2026-10-12,0.4,1.3
+ecommerce,button,Get quote,2026-10-19,0.6,1.5
+ecommerce,button,Install app,2026-06-08,0.1,0.9
+ecommerce,button,Install app,2026-06-15,0.1,0.9
+ecommerce,button,Install app,2026-06-22,0,0.6
+ecommerce,button,Install app,2026-06-29,0.4,0.9
+ecommerce,button,Install app,2026-07-06,0.1,0.9
+ecommerce,button,Install app,2026-07-13,0.2,0.6
+ecommerce,button,Install app,2026-07-20,0.2,0.9
+ecommerce,button,Install app,2026-07-27,0.4,1.2
+ecommerce,button,Install app,2026-08-03,0.4,1.2
+ecommerce,button,Install app,2026-08-10,0.3,1.5
+ecommerce,button,Install app,2026-08-17,0.3,1.2
+ecommerce,button,Install app,2026-08-24,0.5,1.5
+ecommerce,button,Install app,2026-08-31,0.4,0.9
+ecommerce,button,Install app,2026-09-07,0.4,1.2
+ecommerce,button,Install app,2026-09-14,0.4,1.2
+ecommerce,button,Install app,2026-09-21,0.8,1.2
+ecommerce,button,Install app,2026-09-28,0.4,1.5
+ecommerce,button,Install app,2026-10-05,0.5,1.5
+ecommerce,button,Install app,2026-10-12,0.4,1.3
+ecommerce,button,Install app,2026-10-19,0,0.3
+ecommerce,button,Get offer,2026-06-08,1.2,4.2
+ecommerce,button,Get offer,2026-06-15,1.1,4.9
+ecommerce,button,Get offer,2026-06-22,1.5,4.7
+ecommerce,button,Get offer,2026-06-29,1.4,5.2
+ecommerce,button,Get offer,2026-07-06,1.8,4.7
+ecommerce,button,Get offer,2026-07-13,1.7,4.9
+ecommerce,button,Get offer,2026-07-20,1.7,3.8
+ecommerce,button,Get offer,2026-07-27,2,4.8
+ecommerce,button,Get offer,2026-08-03,1.8,3.6
+ecommerce,button,Get offer,2026-08-10,2.2,4.2
+ecommerce,button,Get offer,2026-08-17,2,5.4
+ecommerce,button,Get offer,2026-08-24,2,5.1
+ecommerce,button,Get offer,2026-08-31,1.9,4.9
+ecommerce,button,Get offer,2026-09-07,2.6,5.1
+ecommerce,button,Get offer,2026-09-14,1.9,4.9
+ecommerce,button,Get offer,2026-09-21,2.1,3.7
+ecommerce,button,Get offer,2026-09-28,1.5,3.6
+ecommerce,button,Get offer,2026-10-05,1.6,5.4
+ecommerce,button,Get offer,2026-10-12,2.2,5.4
+ecommerce,button,Get offer,2026-10-19,1.8,4
+software,format,Video,2026-06-08,35.2,83.1
+software,format,Video,2026-06-15,34.7,87.1
+software,format,Video,2026-06-22,34.8,87.9
+software,format,Video,2026-06-29,38,85.6
+software,format,Video,2026-07-06,30.6,83.6
+software,format,Video,2026-07-13,40,88.4
+software,format,Video,2026-07-20,34.6,85.7
+software,format,Video,2026-07-27,37.9,86.8
+software,format,Video,2026-08-03,37.5,86.1
+software,format,Video,2026-08-10,38.6,87
+software,format,Video,2026-08-17,38.9,85.8
+software,format,Video,2026-08-24,38.9,87.2
+software,format,Video,2026-08-31,36.5,89.8
+software,format,Video,2026-09-07,40.2,81.7
+software,format,Video,2026-09-14,39.1,88
+software,format,Video,2026-09-21,34.2,89.5
+software,format,Video,2026-09-28,38.5,87.3
+software,format,Video,2026-10-05,36.7,89.4
+software,format,Video,2026-10-12,34.1,88.5
+software,format,Video,2026-10-19,34.6,89.1
+software,format,Single image,2026-06-08,26.1,75
+software,format,Single image,2026-06-15,26.2,74.1
+software,format,Single image,2026-06-22,28.3,78.2
+software,format,Single image,2026-06-29,27.9,71.2
+software,format,Single image,2026-07-06,26.3,76.2
+software,format,Single image,2026-07-13,24.5,78.5
+software,format,Single image,2026-07-20,26.8,73.9
+software,format,Single image,2026-07-27,25.1,72.7
+software,format,Single image,2026-08-03,25.2,69.6
+software,format,Single image,2026-08-10,25.4,74.8
+software,format,Single image,2026-08-17,25.3,76.7
+software,format,Single image,2026-08-24,29,76.1
+software,format,Single image,2026-08-31,28.1,78
+software,format,Single image,2026-09-07,28.7,77.5
+software,format,Single image,2026-09-14,29.1,71.8
+software,format,Single image,2026-09-21,27.7,74.6
+software,format,Single image,2026-09-28,30.9,73.7
+software,format,Single image,2026-10-05,27.4,79.6
+software,format,Single image,2026-10-12,25.7,75.2
+software,format,Single image,2026-10-19,25.2,80
+software,format,Carousel,2026-06-08,1.6,15.3
+software,format,Carousel,2026-06-15,2.1,16.4
+software,format,Carousel,2026-06-22,1.3,12.9
+software,format,Carousel,2026-06-29,1.9,16
+software,format,Carousel,2026-07-06,1.4,15.6
+software,format,Carousel,2026-07-13,1.8,14.9
+software,format,Carousel,2026-07-20,1.6,14.3
+software,format,Carousel,2026-07-27,2.1,19.8
+software,format,Carousel,2026-08-03,2.1,17.4
+software,format,Carousel,2026-08-10,1.6,13.9
+software,format,Carousel,2026-08-17,1.8,18.3
+software,format,Carousel,2026-08-24,1.2,16.2
+software,format,Carousel,2026-08-31,1.4,15.3
+software,format,Carousel,2026-09-07,1.6,15.8
+software,format,Carousel,2026-09-14,0.8,8.5
+software,format,Carousel,2026-09-21,2.5,14
+software,format,Carousel,2026-09-28,2.2,14.4
+software,format,Carousel,2026-10-05,1.6,14.2
+software,format,Carousel,2026-10-12,1.7,17.7
+software,format,Carousel,2026-10-19,1.4,16.4
+software,format,Dynamic creative,2026-06-08,37.1,62.1
+software,format,Dynamic creative,2026-06-15,37,70.7
+software,format,Dynamic creative,2026-06-22,35.6,66.1
+software,format,Dynamic creative,2026-06-29,32.3,64
+software,format,Dynamic creative,2026-07-06,41.6,68
+software,format,Dynamic creative,2026-07-13,33.7,65.3
+software,format,Dynamic creative,2026-07-20,37.1,68.1
+software,format,Dynamic creative,2026-07-27,34.8,62.8
+software,format,Dynamic creative,2026-08-03,35.1,69.6
+software,format,Dynamic creative,2026-08-10,34.4,63.5
+software,format,Dynamic creative,2026-08-17,34,69.2
+software,format,Dynamic creative,2026-08-24,30.9,57.3
+software,format,Dynamic creative,2026-08-31,34,66.1
+software,format,Dynamic creative,2026-09-07,29.5,60.8
+software,format,Dynamic creative,2026-09-14,31,62.4
+software,format,Dynamic creative,2026-09-21,35.7,64
+software,format,Dynamic creative,2026-09-28,28.4,63.6
+software,format,Dynamic creative,2026-10-05,34.3,71.7
+software,format,Dynamic creative,2026-10-12,38.4,75.2
+software,format,Dynamic creative,2026-10-19,38.8,74.5
+software,placement,WhatsApp,2026-06-08,1.8,8.9
+software,placement,WhatsApp,2026-06-15,2.4,6
+software,placement,WhatsApp,2026-06-22,2.1,8.9
+software,placement,WhatsApp,2026-06-29,1.1,8
+software,placement,WhatsApp,2026-07-06,1,6.6
+software,placement,WhatsApp,2026-07-13,0.7,8.3
+software,placement,WhatsApp,2026-07-20,1.2,6.7
+software,placement,WhatsApp,2026-07-27,2,7.4
+software,placement,WhatsApp,2026-08-03,2.8,9.6
+software,placement,WhatsApp,2026-08-10,1,7.8
+software,placement,WhatsApp,2026-08-17,1.7,9.2
+software,placement,WhatsApp,2026-08-24,0.4,6
+software,placement,WhatsApp,2026-08-31,5,11.9
+software,placement,WhatsApp,2026-09-07,3.9,13.3
+software,placement,WhatsApp,2026-09-14,5.9,12.8
+software,placement,WhatsApp,2026-09-21,4,10.5
+software,placement,WhatsApp,2026-09-28,7.3,14.4
+software,placement,WhatsApp,2026-10-05,7.1,14.2
+software,placement,WhatsApp,2026-10-12,7.8,17.7
+software,placement,WhatsApp,2026-10-19,10.8,21.8
+software,placement,Threads,2026-06-08,69.7,81.5
+software,placement,Threads,2026-06-15,70.3,83.6
+software,placement,Threads,2026-06-22,68.8,86.3
+software,placement,Threads,2026-06-29,70.4,85.6
+software,placement,Threads,2026-07-06,71.8,87.7
+software,placement,Threads,2026-07-13,70.5,86.8
+software,placement,Threads,2026-07-20,74,89.1
+software,placement,Threads,2026-07-27,74.5,88.4
+software,placement,Threads,2026-08-03,67.3,87.8
+software,placement,Threads,2026-08-10,70.5,86.1
+software,placement,Threads,2026-08-17,71.6,85.8
+software,placement,Threads,2026-08-24,65.4,82.9
+software,placement,Threads,2026-08-31,72.1,89
+software,placement,Threads,2026-09-07,73.5,88.3
+software,placement,Threads,2026-09-14,70.7,82.1
+software,placement,Threads,2026-09-21,69.7,81.6
+software,placement,Threads,2026-09-28,68.4,84.7
+software,placement,Threads,2026-10-05,68.5,85.8
+software,placement,Threads,2026-10-12,72.4,87.6
+software,placement,Threads,2026-10-19,67.6,84.5
+software,placement,Messenger,2026-06-08,71,83.9
+software,placement,Messenger,2026-06-15,72.1,84.5
+software,placement,Messenger,2026-06-22,71.9,88.7
+software,placement,Messenger,2026-06-29,73.2,88
+software,placement,Messenger,2026-07-06,76.1,89.3
+software,placement,Messenger,2026-07-13,74.8,89.3
+software,placement,Messenger,2026-07-20,78.4,89.9
+software,placement,Messenger,2026-07-27,76.2,90.1
+software,placement,Messenger,2026-08-03,68.3,87
+software,placement,Messenger,2026-08-10,71.8,85.2
+software,placement,Messenger,2026-08-17,74.3,88.3
+software,placement,Messenger,2026-08-24,64.7,87.2
+software,placement,Messenger,2026-08-31,70.1,88.1
+software,placement,Messenger,2026-09-07,55.2,82.5
+software,placement,Messenger,2026-09-14,34.7,72.6
+software,placement,Messenger,2026-09-21,29.7,67.5
+software,placement,Messenger,2026-09-28,28.2,66.1
+software,placement,Messenger,2026-10-05,17.5,57.5
+software,placement,Messenger,2026-10-12,15.1,53.1
+software,placement,Messenger,2026-10-19,16,55.5
+software,placement,Audience Network,2026-06-08,49.5,64.5
+software,placement,Audience Network,2026-06-15,52.8,62.9
+software,placement,Audience Network,2026-06-22,52.5,67.7
+software,placement,Audience Network,2026-06-29,51.3,68
+software,placement,Audience Network,2026-07-06,50.5,64.8
+software,placement,Audience Network,2026-07-13,52,66.9
+software,placement,Audience Network,2026-07-20,51.7,64.7
+software,placement,Audience Network,2026-07-27,50.8,65.3
+software,placement,Audience Network,2026-08-03,47.3,62.6
+software,placement,Audience Network,2026-08-10,46.4,65.2
+software,placement,Audience Network,2026-08-17,49.8,61.7
+software,placement,Audience Network,2026-08-24,46.9,65
+software,placement,Audience Network,2026-08-31,50,63.6
+software,placement,Audience Network,2026-09-07,51,65
+software,placement,Audience Network,2026-09-14,50.5,61.5
+software,placement,Audience Network,2026-09-21,51.2,61.4
+software,placement,Audience Network,2026-09-28,49.1,63.6
+software,placement,Audience Network,2026-10-05,51.3,65.5
+software,placement,Audience Network,2026-10-12,49,61.9
+software,placement,Audience Network,2026-10-19,46,63.6
+software,button,Shop now,2026-06-08,4.8,4.8
+software,button,Shop now,2026-06-15,3.7,6.9
+software,button,Shop now,2026-06-22,3.5,6.5
+software,button,Shop now,2026-06-29,3.9,5.6
+software,button,Shop now,2026-07-06,3.3,4.9
+software,button,Shop now,2026-07-13,2.8,5
+software,button,Shop now,2026-07-20,3.3,4.2
+software,button,Shop now,2026-07-27,2.4,5.8
+software,button,Shop now,2026-08-03,3.4,6.1
+software,button,Shop now,2026-08-10,2.7,5.2
+software,button,Shop now,2026-08-17,3,4.2
+software,button,Shop now,2026-08-24,3.4,5.1
+software,button,Shop now,2026-08-31,3,5.1
+software,button,Shop now,2026-09-07,3.4,5
+software,button,Shop now,2026-09-14,2.1,5.1
+software,button,Shop now,2026-09-21,2.5,3.5
+software,button,Shop now,2026-09-28,1.9,3.4
+software,button,Shop now,2026-10-05,0.8,3.5
+software,button,Shop now,2026-10-12,2.6,3.5
+software,button,Shop now,2026-10-19,2.7,4.5
+software,button,Learn more,2026-06-08,28.5,50
+software,button,Learn more,2026-06-15,27.1,52.6
+software,button,Learn more,2026-06-22,28.8,50.8
+software,button,Learn more,2026-06-29,24.4,52
+software,button,Learn more,2026-07-06,28.9,49.2
+software,button,Learn more,2026-07-13,28.5,49.6
+software,button,Learn more,2026-07-20,27.3,51.3
+software,button,Learn more,2026-07-27,26.8,47.1
+software,button,Learn more,2026-08-03,26.7,48.7
+software,button,Learn more,2026-08-10,27.2,47.8
+software,button,Learn more,2026-08-17,29,45.8
+software,button,Learn more,2026-08-24,25.7,47.9
+software,button,Learn more,2026-08-31,26.9,50.8
+software,button,Learn more,2026-09-07,23.1,46.7
+software,button,Learn more,2026-09-14,26.7,42.7
+software,button,Learn more,2026-09-21,27.4,46.5
+software,button,Learn more,2026-09-28,28.2,47.5
+software,button,Learn more,2026-10-05,26.6,50.4
+software,button,Learn more,2026-10-12,25.9,49.6
+software,button,Learn more,2026-10-19,24.6,49.1
+software,button,Sign up,2026-06-08,14.8,26.6
+software,button,Sign up,2026-06-15,15.5,26.7
+software,button,Sign up,2026-06-22,13.2,30.6
+software,button,Sign up,2026-06-29,13.8,28
+software,button,Sign up,2026-07-06,12,27
+software,button,Sign up,2026-07-13,13.3,30.6
+software,button,Sign up,2026-07-20,14.3,27.7
+software,button,Sign up,2026-07-27,13.4,25.6
+software,button,Sign up,2026-08-03,13.9,27.8
+software,button,Sign up,2026-08-10,13.4,26.1
+software,button,Sign up,2026-08-17,10.4,24.2
+software,button,Sign up,2026-08-24,12.3,23.9
+software,button,Sign up,2026-08-31,14.8,25.4
+software,button,Sign up,2026-09-07,15,22.5
+software,button,Sign up,2026-09-14,13.3,26.5
+software,button,Sign up,2026-09-21,12.6,22.8
+software,button,Sign up,2026-09-28,11.7,23.7
+software,button,Sign up,2026-10-05,13.3,26.5
+software,button,Sign up,2026-10-12,12.1,27.4
+software,button,Sign up,2026-10-19,13.7,27.3
+software,button,Get quote,2026-06-08,2.1,4
+software,button,Get quote,2026-06-15,3.4,4.3
+software,button,Get quote,2026-06-22,2.9,4
+software,button,Get quote,2026-06-29,3.6,4
+software,button,Get quote,2026-07-06,3,3.3
+software,button,Get quote,2026-07-13,3.1,4.1
+software,button,Get quote,2026-07-20,3.4,5
+software,button,Get quote,2026-07-27,3.9,5
+software,button,Get quote,2026-08-03,3.4,5.2
+software,button,Get quote,2026-08-10,4,5.2
+software,button,Get quote,2026-08-17,3.8,5
+software,button,Get quote,2026-08-24,3.4,5.1
+software,button,Get quote,2026-08-31,3.8,5.1
+software,button,Get quote,2026-09-07,3.3,4.2
+software,button,Get quote,2026-09-14,4.5,6
+software,button,Get quote,2026-09-21,3.8,5.3
+software,button,Get quote,2026-09-28,3.1,5.1
+software,button,Get quote,2026-10-05,3,4.4
+software,button,Get quote,2026-10-12,3.7,5.3
+software,button,Get quote,2026-10-19,3.5,5.5
+software,button,Install app,2026-06-08,22,34.7
+software,button,Install app,2026-06-15,23.2,35.3
+software,button,Install app,2026-06-22,22.7,34.7
+software,button,Install app,2026-06-29,23.7,36.8
+software,button,Install app,2026-07-06,22.7,33.6
+software,button,Install app,2026-07-13,21.7,35.5
+software,button,Install app,2026-07-20,24.1,37
+software,button,Install app,2026-07-27,23.8,35.5
+software,button,Install app,2026-08-03,19.2,34.8
+software,button,Install app,2026-08-10,21,34.8
+software,button,Install app,2026-08-17,20.9,32.5
+software,button,Install app,2026-08-24,25.2,37.6
+software,button,Install app,2026-08-31,23.7,38.1
+software,button,Install app,2026-09-07,23.9,36.7
+software,button,Install app,2026-09-14,21.6,35.9
+software,button,Install app,2026-09-21,24,30.7
+software,button,Install app,2026-09-28,23.5,36.4
+software,button,Install app,2026-10-05,21.6,40.7
+software,button,Install app,2026-10-12,25.1,37.2
+software,button,Install app,2026-10-19,24.3,40
+software,button,Get offer,2026-06-08,2.5,4
+software,button,Get offer,2026-06-15,1.2,3.4
+software,button,Get offer,2026-06-22,1.6,2.4
+software,button,Get offer,2026-06-29,2,4
+software,button,Get offer,2026-07-06,1.6,3.3
+software,button,Get offer,2026-07-13,2,2.5
+software,button,Get offer,2026-07-20,1.9,3.4
+software,button,Get offer,2026-07-27,1.8,1.7
+software,button,Get offer,2026-08-03,1.8,4.3
+software,button,Get offer,2026-08-10,1.8,4.3
+software,button,Get offer,2026-08-17,1.5,3.3
+software,button,Get offer,2026-08-24,1.6,5.1
+software,button,Get offer,2026-08-31,1.2,6.8
+software,button,Get offer,2026-09-07,2,5.8
+software,button,Get offer,2026-09-14,2,5.1
+software,button,Get offer,2026-09-21,2.3,5.3
+software,button,Get offer,2026-09-28,1.7,5.1
+software,button,Get offer,2026-10-05,1.3,4.4
+software,button,Get offer,2026-10-12,2.1,4.4
+software,button,Get offer,2026-10-19,2.3,4.5
+services,format,Video,2026-06-08,27.2,73.7
+services,format,Video,2026-06-15,32.2,76.6
+services,format,Video,2026-06-22,31.8,78
+services,format,Video,2026-06-29,30.5,75.2
+services,format,Video,2026-07-06,29.7,81.7
+services,format,Video,2026-07-13,32.3,76.5
+services,format,Video,2026-07-20,34.2,76.3
+services,format,Video,2026-07-27,31.8,73.2
+services,format,Video,2026-08-03,30,77.4
+services,format,Video,2026-08-10,33.9,82
+services,format,Video,2026-08-17,35.3,79.2
+services,format,Video,2026-08-24,31.9,80.8
+services,format,Video,2026-08-31,32.4,76.4
+services,format,Video,2026-09-07,30.5,72
+services,format,Video,2026-09-14,35,75.2
+services,format,Video,2026-09-21,30.3,84.1
+services,format,Video,2026-09-28,32.2,78.9
+services,format,Video,2026-10-05,31.5,77.9
+services,format,Video,2026-10-12,29.4,85.9
+services,format,Video,2026-10-19,36.5,82.1
+services,format,Single image,2026-06-08,29.3,71.7
+services,format,Single image,2026-06-15,28.1,79.3
+services,format,Single image,2026-06-22,30.2,80.4
+services,format,Single image,2026-06-29,32.6,86.3
+services,format,Single image,2026-07-06,35.1,79.3
+services,format,Single image,2026-07-13,37.7,81.9
+services,format,Single image,2026-07-20,34.3,80.9
+services,format,Single image,2026-07-27,34.8,78.4
+services,format,Single image,2026-08-03,31.7,84.5
+services,format,Single image,2026-08-10,30.2,80
+services,format,Single image,2026-08-17,34.9,81.9
+services,format,Single image,2026-08-24,34.8,76.7
+services,format,Single image,2026-08-31,33,87
+services,format,Single image,2026-09-07,38.8,85.4
+services,format,Single image,2026-09-14,32.1,83.2
+services,format,Single image,2026-09-21,33.7,81.4
+services,format,Single image,2026-09-28,32.9,85.7
+services,format,Single image,2026-10-05,33.7,79.9
+services,format,Single image,2026-10-12,30.7,78.9
+services,format,Single image,2026-10-19,29.7,80.7
+services,format,Carousel,2026-06-08,2.9,14.5
+services,format,Carousel,2026-06-15,3.1,23.4
+services,format,Carousel,2026-06-22,1.9,16.7
+services,format,Carousel,2026-06-29,3,17.4
+services,format,Carousel,2026-07-06,1.9,17.1
+services,format,Carousel,2026-07-13,2.8,18.1
+services,format,Carousel,2026-07-20,1.8,21.1
+services,format,Carousel,2026-07-27,3.6,19
+services,format,Carousel,2026-08-03,2.9,17.4
+services,format,Carousel,2026-08-10,2.4,18.7
+services,format,Carousel,2026-08-17,2.6,18.8
+services,format,Carousel,2026-08-24,4.3,20.5
+services,format,Carousel,2026-08-31,3,18
+services,format,Carousel,2026-09-07,2.7,15.9
+services,format,Carousel,2026-09-14,3.8,23.5
+services,format,Carousel,2026-09-21,3.9,23.4
+services,format,Carousel,2026-09-28,4,23.1
+services,format,Carousel,2026-10-05,3.6,23.5
+services,format,Carousel,2026-10-12,2.9,21.1
+services,format,Carousel,2026-10-19,2.9,24.3
+services,format,Dynamic creative,2026-06-08,40.6,58.6
+services,format,Dynamic creative,2026-06-15,36.5,57.2
+services,format,Dynamic creative,2026-06-22,36.1,62.5
+services,format,Dynamic creative,2026-06-29,33.9,59
+services,format,Dynamic creative,2026-07-06,33.3,56.7
+services,format,Dynamic creative,2026-07-13,27.3,50
+services,format,Dynamic creative,2026-07-20,29.7,54.6
+services,format,Dynamic creative,2026-07-27,29.8,50.3
+services,format,Dynamic creative,2026-08-03,35.5,59.4
+services,format,Dynamic creative,2026-08-10,33.6,60
+services,format,Dynamic creative,2026-08-17,27.2,55
+services,format,Dynamic creative,2026-08-24,29.1,52.7
+services,format,Dynamic creative,2026-08-31,31.6,57.1
+services,format,Dynamic creative,2026-09-07,28,52.2
+services,format,Dynamic creative,2026-09-14,29.2,56.4
+services,format,Dynamic creative,2026-09-21,32.1,56.6
+services,format,Dynamic creative,2026-09-28,30.8,59.2
+services,format,Dynamic creative,2026-10-05,31.1,58.4
+services,format,Dynamic creative,2026-10-12,37,64.8
+services,format,Dynamic creative,2026-10-19,30.9,59.3
+services,placement,WhatsApp,2026-06-08,1.7,3.9
+services,placement,WhatsApp,2026-06-15,0.5,4.8
+services,placement,WhatsApp,2026-06-22,1.6,7.7
+services,placement,WhatsApp,2026-06-29,1.5,6.2
+services,placement,WhatsApp,2026-07-06,1.1,6.7
+services,placement,WhatsApp,2026-07-13,1.4,5.4
+services,placement,WhatsApp,2026-07-20,6.1,8.6
+services,placement,WhatsApp,2026-07-27,8.5,14.4
+services,placement,WhatsApp,2026-08-03,7.2,17.4
+services,placement,WhatsApp,2026-08-10,4.5,15.3
+services,placement,WhatsApp,2026-08-17,6.4,14.1
+services,placement,WhatsApp,2026-08-24,9.1,13
+services,placement,WhatsApp,2026-08-31,12.1,22.4
+services,placement,WhatsApp,2026-09-07,13.9,26.8
+services,placement,WhatsApp,2026-09-14,16.2,27.5
+services,placement,WhatsApp,2026-09-21,15.3,26.9
+services,placement,WhatsApp,2026-09-28,18.7,30.6
+services,placement,WhatsApp,2026-10-05,18.2,34.2
+services,placement,WhatsApp,2026-10-12,21.9,31
+services,placement,WhatsApp,2026-10-19,24.5,36.4
+services,placement,Threads,2026-06-08,65.6,72.4
+services,placement,Threads,2026-06-15,63.4,74.5
+services,placement,Threads,2026-06-22,62.9,72.6
+services,placement,Threads,2026-06-29,59.3,77.6
+services,placement,Threads,2026-07-06,58.3,76.8
+services,placement,Threads,2026-07-13,57,74.1
+services,placement,Threads,2026-07-20,66.5,72.4
+services,placement,Threads,2026-07-27,62.8,75.8
+services,placement,Threads,2026-08-03,63.7,75.5
+services,placement,Threads,2026-08-10,63.5,78
+services,placement,Threads,2026-08-17,64.6,79.2
+services,placement,Threads,2026-08-24,62.8,79.5
+services,placement,Threads,2026-08-31,65.9,77.6
+services,placement,Threads,2026-09-07,64.3,79
+services,placement,Threads,2026-09-14,63.9,77.2
+services,placement,Threads,2026-09-21,62.9,75.2
+services,placement,Threads,2026-09-28,64.5,76.2
+services,placement,Threads,2026-10-05,66.3,79.9
+services,placement,Threads,2026-10-12,67.2,81
+services,placement,Threads,2026-10-19,67.6,79.3
+services,placement,Messenger,2026-06-08,68.7,78.3
+services,placement,Messenger,2026-06-15,64.7,74.5
+services,placement,Messenger,2026-06-22,65.7,76.2
+services,placement,Messenger,2026-06-29,62.2,79.5
+services,placement,Messenger,2026-07-06,61.4,78.7
+services,placement,Messenger,2026-07-13,59.9,76.5
+services,placement,Messenger,2026-07-20,65.8,75
+services,placement,Messenger,2026-07-27,63,80.4
+services,placement,Messenger,2026-08-03,63,78.1
+services,placement,Messenger,2026-08-10,63,80.7
+services,placement,Messenger,2026-08-17,63.6,81.9
+services,placement,Messenger,2026-08-24,59.6,78.8
+services,placement,Messenger,2026-08-31,64.6,78.3
+services,placement,Messenger,2026-09-07,44.2,73.9
+services,placement,Messenger,2026-09-14,31.9,63.8
+services,placement,Messenger,2026-09-21,24.2,53.1
+services,placement,Messenger,2026-09-28,18.9,55.8
+services,placement,Messenger,2026-10-05,15.3,47
+services,placement,Messenger,2026-10-12,13.7,43.7
+services,placement,Messenger,2026-10-19,8.2,40
+services,placement,Audience Network,2026-06-08,43.9,54.6
+services,placement,Audience Network,2026-06-15,44.1,55.2
+services,placement,Audience Network,2026-06-22,43.4,56.5
+services,placement,Audience Network,2026-06-29,40.4,58.4
+services,placement,Audience Network,2026-07-06,43.2,56.1
+services,placement,Audience Network,2026-07-13,35.4,54.2
+services,placement,Audience Network,2026-07-20,42,53.9
+services,placement,Audience Network,2026-07-27,42,58.2
+services,placement,Audience Network,2026-08-03,36.4,52.9
+services,placement,Audience Network,2026-08-10,41.1,50.7
+services,placement,Audience Network,2026-08-17,34.6,54.4
+services,placement,Audience Network,2026-08-24,38,52.7
+services,placement,Audience Network,2026-08-31,38.4,54
+services,placement,Audience Network,2026-09-07,37.1,51.6
+services,placement,Audience Network,2026-09-14,36.4,54.4
+services,placement,Audience Network,2026-09-21,37.1,48.3
+services,placement,Audience Network,2026-09-28,36.6,55.8
+services,placement,Audience Network,2026-10-05,37.4,53
+services,placement,Audience Network,2026-10-12,38.4,53.5
+services,placement,Audience Network,2026-10-19,35.3,51.4
+services,button,Shop now,2026-06-08,8.7,9.9
+services,button,Shop now,2026-06-15,6.2,11
+services,button,Shop now,2026-06-22,5.1,9.5
+services,button,Shop now,2026-06-29,5.8,9.9
+services,button,Shop now,2026-07-06,3.9,8.5
+services,button,Shop now,2026-07-13,4.9,6
+services,button,Shop now,2026-07-20,6.8,8.6
+services,button,Shop now,2026-07-27,7.2,8.5
+services,button,Shop now,2026-08-03,8,9
+services,button,Shop now,2026-08-10,6.8,8
+services,button,Shop now,2026-08-17,6.7,8.1
+services,button,Shop now,2026-08-24,7.1,10.3
+services,button,Shop now,2026-08-31,6.4,9.9
+services,button,Shop now,2026-09-07,6,7
+services,button,Shop now,2026-09-14,7.2,8.7
+services,button,Shop now,2026-09-21,6.1,7.6
+services,button,Shop now,2026-09-28,7.5,8.2
+services,button,Shop now,2026-10-05,6,10.7
+services,button,Shop now,2026-10-12,6,9.9
+services,button,Shop now,2026-10-19,6.1,10
+services,button,Learn more,2026-06-08,38,61.8
+services,button,Learn more,2026-06-15,37.2,68.3
+services,button,Learn more,2026-06-22,38.3,66.7
+services,button,Learn more,2026-06-29,36,62.1
+services,button,Learn more,2026-07-06,35.9,59.1
+services,button,Learn more,2026-07-13,34.9,60.2
+services,button,Learn more,2026-07-20,38.2,61.8
+services,button,Learn more,2026-07-27,39,64.1
+services,button,Learn more,2026-08-03,36.5,65.2
+services,button,Learn more,2026-08-10,36.2,57.3
+services,button,Learn more,2026-08-17,37.8,61.7
+services,button,Learn more,2026-08-24,34.6,57.5
+services,button,Learn more,2026-08-31,36,57.8
+services,button,Learn more,2026-09-07,35.5,60.5
+services,button,Learn more,2026-09-14,35.5,63.1
+services,button,Learn more,2026-09-21,37.8,55.2
+services,button,Learn more,2026-09-28,37.5,61.9
+services,button,Learn more,2026-10-05,36.5,63.1
+services,button,Learn more,2026-10-12,39.2,64.8
+services,button,Learn more,2026-10-19,34,61.4
+services,button,Sign up,2026-06-08,5.7,13.2
+services,button,Sign up,2026-06-15,6.2,11.7
+services,button,Sign up,2026-06-22,4.4,13.7
+services,button,Sign up,2026-06-29,7.2,14.9
+services,button,Sign up,2026-07-06,4.2,14
+services,button,Sign up,2026-07-13,4.2,14.5
+services,button,Sign up,2026-07-20,5.1,13.2
+services,button,Sign up,2026-07-27,7.9,16.3
+services,button,Sign up,2026-08-03,3.7,12.9
+services,button,Sign up,2026-08-10,6.5,18
+services,button,Sign up,2026-08-17,4.2,16.8
+services,button,Sign up,2026-08-24,7.7,15.1
+services,button,Sign up,2026-08-31,5,17.4
+services,button,Sign up,2026-09-07,8.5,19.1
+services,button,Sign up,2026-09-14,4.6,12.1
+services,button,Sign up,2026-09-21,5.2,14.5
+services,button,Sign up,2026-09-28,3.7,13.6
+services,button,Sign up,2026-10-05,4.5,13.4
+services,button,Sign up,2026-10-12,3.4,12
+services,button,Sign up,2026-10-19,4.7,14.3
+services,button,Get quote,2026-06-08,16.8,20.4
+services,button,Get quote,2026-06-15,15.5,18.6
+services,button,Get quote,2026-06-22,13.8,19.6
+services,button,Get quote,2026-06-29,14.8,23.6
+services,button,Get quote,2026-07-06,13.2,20.7
+services,button,Get quote,2026-07-13,15.1,19.3
+services,button,Get quote,2026-07-20,11.6,19.1
+services,button,Get quote,2026-07-27,12.8,20.9
+services,button,Get quote,2026-08-03,14.8,21.3
+services,button,Get quote,2026-08-10,16.1,20.7
+services,button,Get quote,2026-08-17,14.9,21.5
+services,button,Get quote,2026-08-24,11.9,21.2
+services,button,Get quote,2026-08-31,13.3,20.5
+services,button,Get quote,2026-09-07,13.5,19.1
+services,button,Get quote,2026-09-14,14.5,20.8
+services,button,Get quote,2026-09-21,12.2,22.1
+services,button,Get quote,2026-09-28,14.3,21.8
+services,button,Get quote,2026-10-05,13,20.1
+services,button,Get quote,2026-10-12,13.7,20.4
+services,button,Get quote,2026-10-19,13.2,21.4
+services,button,Install app,2026-06-08,0,0.7
+services,button,Install app,2026-06-15,0.1,0.7
+services,button,Install app,2026-06-22,0.2,1.2
+services,button,Install app,2026-06-29,0.1,1.2
+services,button,Install app,2026-07-06,0.1,0.6
+services,button,Install app,2026-07-13,0.1,1.2
+services,button,Install app,2026-07-20,0.1,1.3
+services,button,Install app,2026-07-27,0.3,1.3
+services,button,Install app,2026-08-03,0.1,0.6
+services,button,Install app,2026-08-10,0.3,1.3
+services,button,Install app,2026-08-17,0.2,0.7
+services,button,Install app,2026-08-24,0,0.7
+services,button,Install app,2026-08-31,0,0
+services,button,Install app,2026-09-07,0,0
+services,button,Install app,2026-09-14,0,0
+services,button,Install app,2026-09-21,0,0
+services,button,Install app,2026-09-28,0.9,0.7
+services,button,Install app,2026-10-05,0.6,0.7
+services,button,Install app,2026-10-12,0.2,1.4
+services,button,Install app,2026-10-19,0.3,1.4
+services,button,Get offer,2026-06-08,4.7,5.9
+services,button,Get offer,2026-06-15,4.1,7.6
+services,button,Get offer,2026-06-22,6,8.9
+services,button,Get offer,2026-06-29,4,8.7
+services,button,Get offer,2026-07-06,4.6,9.1
+services,button,Get offer,2026-07-13,2.6,7.2
+services,button,Get offer,2026-07-20,1.8,6.6
+services,button,Get offer,2026-07-27,2.2,3.9
+services,button,Get offer,2026-08-03,4.9,7.1
+services,button,Get offer,2026-08-10,0.9,6
+services,button,Get offer,2026-08-17,3,8.1
+services,button,Get offer,2026-08-24,3,7.5
+services,button,Get offer,2026-08-31,3.9,6.8
+services,button,Get offer,2026-09-07,2.4,8.3
+services,button,Get offer,2026-09-14,2.8,9.4
+services,button,Get offer,2026-09-21,2.8,9
+services,button,Get offer,2026-09-28,3.3,8.2
+services,button,Get offer,2026-10-05,2.3,8.1
+services,button,Get offer,2026-10-12,4.7,12
+services,button,Get offer,2026-10-19,3.1,5.7

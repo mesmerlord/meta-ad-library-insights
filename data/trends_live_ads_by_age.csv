@@ -1,0 +1,21 @@
+scope,age_bucket,min_days,max_days_exclusive,pct_of_live_ads,live_ads
+all,Under a month,0,30,66.4,65681
+all,1 to 3 months,30,90,23.7,65681
+all,3 to 6 months,90,180,6.7,65681
+all,6 to 12 months,180,365,2.4,65681
+all,Over a year,365,,0.7,65681
+ecommerce,Under a month,0,30,67.4,34130
+ecommerce,1 to 3 months,30,90,22.4,34130
+ecommerce,3 to 6 months,90,180,7.2,34130
+ecommerce,6 to 12 months,180,365,2.1,34130
+ecommerce,Over a year,365,,0.9,34130
+software,Under a month,0,30,66.7,13559
+software,1 to 3 months,30,90,23.9,13559
+software,3 to 6 months,90,180,6.5,13559
+software,6 to 12 months,180,365,2.3,13559
+software,Over a year,365,,0.5,13559
+services,Under a month,0,30,64.4,17992
+services,1 to 3 months,30,90,26,17992
+services,3 to 6 months,90,180,5.8,17992
+services,6 to 12 months,180,365,3.1,17992
+services,Over a year,365,,0.6,17992

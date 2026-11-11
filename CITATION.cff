@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, and cite the page a number comes from."
+type: dataset
+title: "Meta Ad Library insights, 2026"
+abstract: >-
+  Aggregate statistics on Meta (Facebook and Instagram) ads from a fixed panel of brands,
+  built from the public Meta Ad Library: how long new ads stay live, the formats, placements
+  and buttons brands launch, when sale copy appears, weekly launch pace (538,068 new ads from
+  730 brands, June 8 to October 25, 2026), the longest-running ads still live across 947 brands,
+  and Black Friday 2026 ads (as of November 11, 2026). Not affiliated with Meta.
+authors:
+  - name: AdMakeAI
+    website: "https://admakeai.com"
+version: "2026-11-11"
+date-released: "2026-11-11"
+license: CC-BY-4.0
+url: "https://admakeai.com/ad-insights/trends"
+repository-code: "https://github.com/mesmerlord/meta-ad-library-insights"
+identifiers:
+  - type: url
+    value: "https://admakeai.com/ad-insights/trends"
+    description: "Meta Ad Trends (source page for the trends_* tables)"
+  - type: url
+    value: "https://admakeai.com/ad-insights/longest-running-ads"
+    description: "The longest-running Meta ads (source page for the longest_running_* tables)"
+  - type: url
+    value: "https://admakeai.com/ad-insights/black-friday-ads"
+    description: "Black Friday 2026 ads on Meta (source page for the black_friday_* tables)"
+keywords:
+  - advertising
+  - meta ad library
+  - facebook ads
+  - instagram ads
+  - ad lifespan
+  - black friday
+  - open data

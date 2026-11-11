@@ -1,0 +1,5 @@
+band,min_pct,max_pct_exclusive,brands
+1-29%,1,30,17
+30-49%,30,50,28
+50-59%,50,60,20
+60% and up,60,100,23

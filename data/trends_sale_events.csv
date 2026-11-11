@@ -1,0 +1,13 @@
+scope,event,event_date,first_week,peak_week,peak_pct,lead_weeks,peak_weeks_before_day
+all,Labor Day,2026-09-07,2026-08-24,2026-08-31,7.8,2,1
+all,Back to school,,2026-07-06,2026-08-03,1.3,,
+all,4th of July,2026-07-04,2026-06-15,2026-06-29,5,2,0
+all,Prime Day,,2026-06-15,2026-06-22,2.7,,
+ecommerce,Labor Day,2026-09-07,2026-08-24,2026-08-31,12.4,2,1
+ecommerce,Back to school,,2026-07-06,2026-08-03,1.6,,
+ecommerce,4th of July,2026-07-04,2026-06-22,2026-06-29,8.2,1,0
+software,Labor Day,2026-09-07,2026-08-24,2026-08-31,1.3,2,1
+software,4th of July,2026-07-04,2026-06-15,2026-06-22,1.3,2,1
+services,Labor Day,2026-09-07,2026-08-24,2026-08-24,2.7,2,2
+services,Back to school,,2026-08-03,2026-08-03,1.4,,
+services,4th of July,2026-07-04,2026-06-22,2026-07-06,1.8,1,-1

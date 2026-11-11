@@ -1,0 +1,57 @@
+scope,group,attribute,first_4_weeks_pct,last_4_weeks_pct,moved
+all,format,Video,32.8,34.8,false
+all,format,Single image,25.7,28.4,false
+all,format,Carousel,4.9,5.3,false
+all,format,Dynamic creative,36.6,31.5,false
+all,placement,WhatsApp,2.4,26,true
+all,placement,Threads,74.4,75.2,false
+all,placement,Messenger,76.8,20.6,true
+all,placement,Audience Network,51.9,46.6,false
+all,button,Shop now,46.5,46.3,false
+all,button,Learn more,19.9,19,false
+all,button,Sign up,4.6,4.1,false
+all,button,Get quote,4.7,4.1,false
+all,button,Install app,4.7,5.2,false
+all,button,Get offer,2.2,2.2,false
+ecommerce,format,Video,32.7,35.5,false
+ecommerce,format,Single image,23.4,27.4,false
+ecommerce,format,Carousel,7,7.3,false
+ecommerce,format,Dynamic creative,36.9,29.9,false
+ecommerce,placement,WhatsApp,3,34.7,true
+ecommerce,placement,Threads,81,80.9,false
+ecommerce,placement,Messenger,83.5,23.8,true
+ecommerce,placement,Audience Network,55.9,49.7,false
+ecommerce,button,Shop now,79.1,78.7,false
+ecommerce,button,Learn more,9.9,9.1,false
+ecommerce,button,Sign up,0.6,1,false
+ecommerce,button,Get quote,0.8,0.6,false
+ecommerce,button,Install app,0.2,0.3,false
+ecommerce,button,Get offer,1.3,1.8,false
+software,format,Video,35.7,36,false
+software,format,Single image,27.1,27.3,false
+software,format,Carousel,1.7,1.7,false
+software,format,Dynamic creative,35.5,35,false
+software,placement,WhatsApp,1.9,8.3,true
+software,placement,Threads,69.8,69.2,false
+software,placement,Messenger,72.1,19.2,true
+software,placement,Audience Network,51.5,48.9,false
+software,button,Shop now,4,2,false
+software,button,Learn more,27.2,26.3,false
+software,button,Sign up,14.3,12.7,false
+software,button,Get quote,3,3.3,false
+software,button,Install app,22.9,23.6,false
+software,button,Get offer,1.8,1.9,false
+services,format,Video,30.4,32.4,false
+services,format,Single image,30.1,31.8,false
+services,format,Carousel,2.7,3.4,false
+services,format,Dynamic creative,36.8,32.5,false
+services,placement,WhatsApp,1.3,20.8,true
+services,placement,Threads,62.8,66.4,false
+services,placement,Messenger,65.3,14,true
+services,placement,Audience Network,43,36.9,false
+services,button,Shop now,6.5,6.4,false
+services,button,Learn more,37.4,36.8,false
+services,button,Sign up,5.9,4.1,false
+services,button,Get quote,15.2,13.6,false
+services,button,Install app,0.1,0.5,false
+services,button,Get offer,4.7,3.4,false
