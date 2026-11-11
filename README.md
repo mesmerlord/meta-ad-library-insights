@@ -29,7 +29,8 @@ curve = pd.read_csv(base + "trends_lifespan_curve.csv")
 ```
 
 ```r
-curve <- readr::read_csv("https://raw.githubusercontent.com/mesmerlord/meta-ad-library-insights/main/data/trends_lifespan_curve.csv")
+base <- "https://raw.githubusercontent.com/mesmerlord/meta-ad-library-insights/main/data/"
+curve <- readr::read_csv(paste0(base, "trends_lifespan_curve.csv"))
 ```
 
 Every file is UTF-8 CSV with a header row. `scope` is `all`, `ecommerce`, `software` or `services`. Weeks are named by their Monday. Every column is described in [DATA_DICTIONARY.md](DATA_DICTIONARY.md).
