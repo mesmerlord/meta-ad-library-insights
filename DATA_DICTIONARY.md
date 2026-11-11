@@ -98,7 +98,7 @@ Placements are not exclusive: one ad can run on several.
 | attribute | string | | As in `trends_launch_mix_weekly.csv` |
 | first_4_weeks_pct | number | mean brand share, % | Mean of the first four weekly values |
 | last_4_weeks_pct | number | mean brand share, % | Mean of the last four weekly values |
-| moved | boolean | | `true` when the change is 5+ points and 1.5x, both per brand and pooled, and 3x the usual week-to-week wobble |
+| moved | boolean | | `true` when the change is 5+ points and 1.5x, both per brand and pooled, and 3x its normal weekly variation |
 
 ### `trends_sale_calendar_weekly.csv`
 
